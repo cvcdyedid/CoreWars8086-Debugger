@@ -1,0 +1,1 @@
+java -jar "D:\CodeGuruX\svncodewars\dist\corewars8086.jar"
