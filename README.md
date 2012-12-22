@@ -8,6 +8,8 @@ The debugger displays the current values of the regusters, the next commands to 
 It also draws a purple dot at the current IP register of the player.
 
 Notes:
+- You need to have NASM in place in order to have the next lines which will be executed show in the panel.
+  Get it here: http://www.nasm.us/
 - This debugger is meant to be used for developing players and therefore will run MANY rounds, in order to get
   a better statistical marking of the player. We removed the GUI setting of the rounds number, and hopefully
   someone will add it again soon.
