@@ -13,7 +13,7 @@ Notes:
   someone will add it again soon.
 - There's a known bug, which is quite annoying: Many times the debugger opens and the left panel
   where all the names and registers are written is just blank. There isn't any exception etc.
-  The temporary solution is to re-open the debugger until the problem ceases. You amy need to re-open it as many
+  The temporary solution is to re-open the debugger until the problem ceases. You may need to re-open it as many
   as 20 times until is gone. We found that updating Java on the PC may make the problem a bit smaller.
 - When running at high speed, the purple dot of the IP will be drawn only every few turns, since it is only drawn
   whenever the registers text is updated.
@@ -27,6 +27,8 @@ ToDo:
   that it may be useful to have the turn of each player run at a time and not all of them together. Maybe an additional
   button for such a functionality will help you.
 - Fix the problem of the blank panel. This is the most important thing.
+- Maybe add an option to tape the moves. It may be very frustrating to step through a long player and just miss with
+  a single turn the move that you wanted to catch...
 - Any ideas for new features? Share with us!
 
 Best regards, and Good luck! 
