@@ -31,7 +31,10 @@ ToDo:
   a single turn the move that you wanted to catch...
 - Any ideas for new features? Share with us!
 
-Best regards, and Good luck! 
+Best regards, and Good luck!
+
 Zorg Team
+
 צוות זורג
+
 2012
